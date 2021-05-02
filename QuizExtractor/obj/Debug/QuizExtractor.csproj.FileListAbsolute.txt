@@ -1,0 +1,17 @@
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\QuizExtractor.exe.config
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\QuizExtractor.exe
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\QuizExtractor.pdb
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.csprojAssemblyReference.cache
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.Form1.resources
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.Properties.Resources.resources
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.csproj.GenerateResource.cache
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.csproj.CoreCompileInputs.cache
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.exe
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.pdb
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.csproj.CopyComplete
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\QuizExtractor.exe.manifest
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\bin\Debug\QuizExtractor.application
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.exe.manifest
+C:\Users\tbriggs\source\repos\QuizExtractor\QuizExtractor\obj\Debug\QuizExtractor.application
